@@ -3,6 +3,7 @@ Extract Domains from long string of URLs.
 
 
 // Test cases
+
  console.log(extractDomain("https://studio.youtube.com/channel/UCntj-iDUfMBvc8_peZWbQ4g/editing/sections"));  // Output: studio.youtube.com
  console.log(extractDomain("https://www.youtube.com/"));                                                      // Output: www.youtube.com
  console.log(extractDomain("https://www.youtube.com/channel/UCntj-iDUfMBvc8_peZWbQ4g"));                      // Output: www.youtube.com
