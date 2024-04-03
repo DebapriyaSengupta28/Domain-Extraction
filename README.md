@@ -1,9 +1,9 @@
-**Domain-Extraction**
+#Domain-Extraction
 
 Extract Domains from long string of URLs.
 
 
-**Test cases**
+#Test cases
 
 ```
  console.log(extractDomain("https://studio.youtube.com/channel/UCntj-iDUfMBvc8_peZWbQ4g/editing/sections"));  // Output: studio.youtube.com
